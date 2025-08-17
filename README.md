@@ -23,7 +23,7 @@
 ### 📦 Установка
 ```bash
 pip install colorama
-
+```
 ## 🇬🇧 English Version
 
 ### ✨ Features
