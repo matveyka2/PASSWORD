@@ -1,0 +1,36 @@
+{
+  "ru": {
+    "title": "🔐 Генератор и проверка паролей",
+    "menu": "Выберите режим (1 = генерация, 2 = проверка, q = выход): ",
+    "gen_mode": "=== Режим генерации пароля ===",
+    "check_mode": "=== Режим проверки пароля ===",
+    "input_length": "Введите длину пароля (или q для выхода): ",
+    "input_password": "Введите пароль для проверки (или q для выхода): ",
+    "error_number": "❌ Введите число!",
+    "error_zero": "❌ Пароль длиной 0 символов?",
+    "error_empty": "❌ Проверять нечего!",
+    "new_gen": "Нажмите Enter для новой генерации или q для выхода...",
+    "new_check": "Нажмите Enter для новой проверки или q для выхода...",
+    "exit": "👋 Выход из программы...",
+    "generated": "Сгенерированный пароль:",
+    "time": "Примерное время взлома:",
+    "strength": "Оценка пароля:"
+  },
+  "en": {
+    "title": "🔐 Password Generator & Checker",
+    "menu": "Choose mode (1 = generate, 2 = check, q = quit): ",
+    "gen_mode": "=== Password Generation Mode ===",
+    "check_mode": "=== Password Checking Mode ===",
+    "input_length": "Enter password length (or q to quit): ",
+    "input_password": "Enter password to check (or q to quit): ",
+    "error_number": "❌ Please enter a number!",
+    "error_zero": "❌ Password length 0? Seriously?",
+    "error_empty": "❌ Nothing to check!",
+    "new_gen": "Press Enter to generate again or q to quit...",
+    "new_check": "Press Enter to check again or q to quit...",
+    "exit": "👋 Exiting program...",
+    "generated": "Generated password:",
+    "time": "Estimated crack time:",
+    "strength": "Password strength:"
+  }
+}
