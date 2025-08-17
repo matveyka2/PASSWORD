@@ -23,3 +23,21 @@
 ### 📦 Установка
 ```bash
 pip install colorama
+
+## 🇬🇧 English Version
+
+### ✨ Features
+- 🌍 Automatic system language detection (Russian/English).
+- 🔑 Generate passwords of any length.
+- 🕵️ Password strength check:
+  - brute-force crack time estimation;
+  - human-readable format (`sec`, `min`, `hours`, `years`).
+- 💡 Strength levels: from ❌ Very Weak to 🚀 NASA-level.
+- 🖥️ Modes of operation:
+  - CLI (console);
+  - GUI (graphical interface via `-gui`).
+- 🎨 Beautiful UI (colored console output, tabs in GUI).
+
+### 📦 Installation
+```bash
+pip install colorama
